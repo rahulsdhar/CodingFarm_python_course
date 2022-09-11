@@ -14,7 +14,7 @@ StudentA={"Name":"Rahul","Roll":'11',"Marks":70}
 StudentB={"Name":"Subham","Roll":'12',"Marks":90}
 StudentC={"Name":"Suman","Roll":'13',"Marks":80}
 
-sel=StudentA
+sel=StudentA if StudentA["Marks"]>StudentB["Marks"] else StudentB
 
 print(sel["Name"],sel["Roll"],sel["Marks"])
 
