@@ -10,7 +10,7 @@ StudentB_Roll='12'
 StudentB_Name="Subham"
 StudentB_Marks="80"
 
-StudentA={"Name":"Rahul","Roll":'11',"Marks":70}
+StudentA={"Name":"Rahul","Roll":'11',"Marks":100,"Attendance":90}
 StudentB={"Name":"Subham","Roll":'12',"Marks":90}
 StudentC={"Name":"Suman","Roll":'13',"Marks":80}
 
